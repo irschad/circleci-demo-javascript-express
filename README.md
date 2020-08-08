@@ -39,7 +39,7 @@ MERN is a scaffolding tool which makes it easy to build isomorphic apps using Mo
 
 6. `npm run lint` - runs linter to check for lint errors
 
-## File Structure
+### File Structure
 
 ### Webpack Configs
 
