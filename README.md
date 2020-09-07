@@ -147,7 +147,7 @@ Modules are the way of organising different domain-specific modules in the proje
   | - PostActions.js
 ```
 
-#### Misc
+## Misc
 
 ### Importing Assets
 Assets can be kept where you want and can be imported into your js files or css files. Those fill be served by webpack in development mode and copied to the dist folder during production.
